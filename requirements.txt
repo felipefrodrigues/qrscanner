@@ -1,0 +1,7 @@
+flask
+flask-cors
+pymysql
+boto3
+qrcode
+Pillow
+cryptography
